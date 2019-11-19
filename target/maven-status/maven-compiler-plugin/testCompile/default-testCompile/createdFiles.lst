@@ -1,9 +1,0 @@
-com/dnzdlklc/dao/ClientDAOImplIntegrationTest.class
-com/dnzdlklc/dao/AbstractDAOIntegrationTest.class
-com/dnzdlklc/rest/APIAcceptanceTest.class
-com/dnzdlklc/service/InternalTransferServiceTest.class
-dnzdlklc/mtransfer/rest/StepDefinitions.class
-com/dnzdlklc/service/InternalTransferServiceConcurrencyTest.class
-com/dnzdlklc/dao/AccountDAOImplIntegrationTest.class
-com/dnzdlklc/service/CustomerAccountServiceImplTest.class
-com/dnzdlklc/util/TestUtils.class
